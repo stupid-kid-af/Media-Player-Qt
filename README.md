@@ -4,5 +4,12 @@
 
 Feel free to ask questions.
 
+## Roadmap 
+- Adding img viewer
+- Adding Next button
+- U tell me
 
-Readme.md updating soon
+## Telegram Group
+  Coming Soon
+  
+  
